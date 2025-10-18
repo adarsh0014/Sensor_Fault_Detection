@@ -1,3 +1,13 @@
 pymongo==4.2.0
+ipykernel
+numpy
+pandas
+python-dotenv
+scikit-learn
+seaborn
+catboost
+xgboost
+mlflow
+cryptography
 
--e .
+# -e .
