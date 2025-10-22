@@ -1,0 +1,656 @@
+aa_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.28781099964952317
+ac_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.9963642362568886
+ad_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.694409095622015
+ae_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 1.0
+af_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 1.0
+ag_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 1.0
+ag_001:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.9999999999995044
+ag_002:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.9999994466378438
+ag_003:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.999999416968082
+ag_004:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.3401898866340354
+ag_005:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.14030461907460412
+ag_006:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.15882770342216102
+ag_007:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.7952918650349692
+ag_008:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.38330433995984226
+ag_009:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.8942575856004817
+ah_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.2655537318130561
+ai_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.9999999997976977
+aj_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.9920534816164119
+ak_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 1.0
+al_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.9925118681038714
+am_0:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.9918987252414646
+an_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.12428567231688081
+ao_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.08560553769432833
+ap_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.8843746468537146
+aq_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.31733857710025104
+ar_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 1.0
+as_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 1.0
+at_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.9164838189813391
+au_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 1.0
+av_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.7306706039367936
+ax_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.8778108771260363
+ay_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 1.0
+ay_001:
+  drift_status: false
+  note: No significant drift
+  p_value: 1.0
+ay_002:
+  drift_status: false
+  note: No significant drift
+  p_value: 1.0
+ay_003:
+  drift_status: false
+  note: No significant drift
+  p_value: 1.0
+ay_004:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.9999977302262663
+ay_005:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.9741169200422853
+ay_006:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.19016557195864814
+ay_007:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.2396733150243867
+ay_008:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.3827074687416353
+ay_009:
+  drift_status: false
+  note: No significant drift
+  p_value: 1.0
+az_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.3646390320018348
+az_001:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.43475397025388607
+az_002:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.703921421156106
+az_003:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.8718106096994289
+az_004:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.8712294391386618
+az_005:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.35000343560706326
+az_006:
+  drift_status: true
+  note: Significant drift detected
+  p_value: 0.04654461920728825
+az_007:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.9993593252248167
+az_008:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.9999811921516379
+az_009:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.9763830389524164
+ba_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.5935858998252825
+ba_001:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.40347114070653045
+ba_002:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.19068482185146507
+ba_003:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.2552873410180567
+ba_004:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.3682955035501847
+ba_005:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.3206138740109785
+ba_006:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.7734660470260042
+ba_007:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.7692356444723748
+ba_008:
+  drift_status: true
+  note: Significant drift detected
+  p_value: 0.009798622167239718
+ba_009:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.7388267089919014
+bb_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.5411885150269068
+bc_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.43193996543409086
+bd_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.4163416924424037
+be_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.46069316337534916
+bf_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.8149810109241973
+bg_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.2405154235167064
+bh_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.370603902423844
+bi_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.33612510727979616
+bj_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.626989871085319
+bk_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.8263578467069792
+bl_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.6023497087183546
+bm_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.7192621250297371
+bs_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.34930791951788376
+bt_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.27418692292510716
+bu_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.5365513251463405
+bv_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.5365513251463405
+bx_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.5779027305868645
+by_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.306104364431968
+bz_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.29149884942086957
+ca_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.6130778435619525
+cb_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.46580033560451617
+cc_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.1873709925560907
+cd_000:
+  drift_status: false
+  note: Constant or insufficient variation
+  p_value: null
+ce_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.5600912788486694
+cf_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.985133722749375
+cg_000:
+  drift_status: true
+  note: Significant drift detected
+  p_value: 0.026355773352901846
+ch_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 1.0
+ci_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.25542842338541116
+cj_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.9925067212838073
+ck_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.36702742934222765
+cl_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.9999949758967163
+class:
+  drift_status: false
+  note: Non-numeric or incompatible data type
+  p_value: null
+cm_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.6290331587628
+cn_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.9986633543489367
+cn_001:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.9999074598051897
+cn_002:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.06069671163270918
+cn_003:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.5546579648713693
+cn_004:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.2529798569515761
+cn_005:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.6223751259177225
+cn_006:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.36511442710169206
+cn_007:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.27415206258116576
+cn_008:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.2817311373150808
+cn_009:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.6397706247122622
+co_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.9556691640716023
+cp_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.9393564173307671
+cq_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.5365513251463405
+cs_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.8525423045254108
+cs_001:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.4654804113797929
+cs_002:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.6370845952263648
+cs_003:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.45619407136824786
+cs_004:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.5524050966598977
+cs_005:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.5354172238949609
+cs_006:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.40187169501405084
+cs_007:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.4233801999897552
+cs_008:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.9932469835875807
+cs_009:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.9999989202074117
+ct_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.6978163723586764
+cu_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.8844179933564266
+cv_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.249965340742204
+cx_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.6287825772145827
+cy_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.9999992262598407
+cz_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.47920516375590283
+da_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.9999900634859069
+db_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.609317958679243
+dc_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.20560443689335295
+dd_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.6389045422087403
+de_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.7065423433719431
+df_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 1.0
+dg_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.9997817008048016
+dh_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.9999998665586511
+di_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.9134339930799944
+dj_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.99999999999988
+dk_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.9999984735964679
+dl_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 1.0
+dm_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 1.0
+dn_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.5169867198034926
+do_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.36555524669119155
+dp_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.22185263890840046
+dq_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.9596250597631053
+dr_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.9831972717963148
+ds_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.3859482787971892
+dt_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.3387763330974336
+du_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.3842310153777998
+dv_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.13875771442077145
+dx_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.9693600819667797
+dy_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.4628011273983481
+dz_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 1.0
+ea_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 1.0
+eb_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.6430794082693775
+ec_00:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.8663151066415938
+ed_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.8139622873721822
+ee_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.8293445169368401
+ee_001:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.4274196524526892
+ee_002:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.16783290166172637
+ee_003:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.5079463298407101
+ee_004:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.13198529187408303
+ee_005:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.5519856740896318
+ee_006:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.7776344741914798
+ee_007:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.8458377682892272
+ee_008:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.2984259409894726
+ee_009:
+  drift_status: false
+  note: No significant drift
+  p_value: 0.87690077674433
+ef_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 1.0
+eg_000:
+  drift_status: false
+  note: No significant drift
+  p_value: 1.0

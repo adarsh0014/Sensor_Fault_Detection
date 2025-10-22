@@ -9,5 +9,7 @@ catboost
 xgboost
 mlflow
 cryptography
+pyYAML
+dill
 
 # -e .
