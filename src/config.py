@@ -1,7 +1,6 @@
 from dataclasses import dataclass
 import os
 from pymongo import MongoClient
-import pymongo
 
 @dataclass
 class EnvironmentVariable:

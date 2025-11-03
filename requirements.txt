@@ -11,5 +11,6 @@ mlflow
 cryptography
 pyYAML
 dill
-
+scipy
+imblearn==0.0
 # -e .
