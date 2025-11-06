@@ -61,8 +61,3 @@ class SensorData:
             raise CustomException(e, sys)
 
         
-
-
-
-
-
